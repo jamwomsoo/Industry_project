@@ -1,1 +1,1 @@
-# mini_project
+# cslee_industry_project

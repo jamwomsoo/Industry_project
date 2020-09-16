@@ -1,3 +1,2 @@
-# Firebase Phone Authentication
+# 2 factor-athen 
 
-## Please Connect Your own firebase Project with this app to run project 
